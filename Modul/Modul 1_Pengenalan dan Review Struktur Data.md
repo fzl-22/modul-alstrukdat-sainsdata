@@ -2,9 +2,11 @@
 
 ## 1.1 Definisi Struktur Data
 
-```
-Struktur data adalah format yang digunakan untuk menyimpan data-data dalam bentuk tertentu sehingga dapat diakses, diproses, dan disimpan dengan efisien sesuai dengan kebutuhan dan jenis datanya.
-```
+`````C
+Struktur data adalah format yang digunakan untuk menyimpan data-data dalam bentuk tertentu
+sehingga dapat diakses, diproses, dan disimpan dengan efisien sesuai dengan kebutuhan dan
+jenis datanya.
+`````
 
 Gambar di bawah ini menunjukkan beberapa **struktur data secara umum**:
 ![Data Structure](https://scaler.com/topics/images/datat-structure-types-of-data-structure)

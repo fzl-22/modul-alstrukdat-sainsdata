@@ -17,10 +17,10 @@
 
 ## Format Pengumpulan
 
-1. Setiap soal dikerjakan dalam 1 file berekstensi `.py` (bukan `.ipynb`).
-2. Setiap file soal diberi nama sesuai format berikut: `soal_{nomor_soal}.py`.
+1. Setiap soal dikerjakan dalam 1 file berekstensi `.ipynb`.
+2. Setiap file soal diberi nama sesuai format berikut: `soal_{nomor_soal}.ipynb`.
 
-    Contoh: `soal_1.py`, `soal_2.py`, dan `soal_3.py`.
+    Contoh: `soal_1.ipynb`, `soal_2.ipynb`, dan `soal_3.ipynb`.
 
 3. Ketiga file tersebut ditempatkan dalam 1 folder, kemudian di-compress dalam format zip dengan format nama berikut: `{nim}_{nama_mahasiswa}_UAS.zip`.
 

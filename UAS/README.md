@@ -17,13 +17,10 @@
 
 ## Format Pengumpulan
 
-1. Setiap soal dikerjakan dalam 1 file berekstensi `.ipynb`.
-2. Setiap file soal diberi nama sesuai format berikut: `soal_{nomor_soal}.ipynb`.
+1. Ketiga soal dikerjakan dalam 1 file berekstensi `.ipynb`.
+2. Setiap soal diberi tanda menggunakan Markdown (# Soal 1, # Soal 2, # Soal 3).
+3. Nama file menggunakan format berikut: `{nim}_{nama_mahasiswa}_UAS.zip`.
 
-    Contoh: `soal_1.ipynb`, `soal_2.ipynb`, dan `soal_3.ipynb`.
-
-3. Ketiga file tersebut ditempatkan dalam 1 folder, kemudian di-compress dalam format zip dengan format nama berikut: `{nim}_{nama_mahasiswa}_UAS.zip`.
-
-    Contoh: `1203210101_Chitoge Kirisaki_UAS.zip`.
+    Contoh: `1203210101_Chitoge Kirisaki_UAS.ipynb`.
   
-4. File `.zip` dikumpulkan di E-Learning sebelum batas waktu yang telah ditentukan.
+4. File `.ipynb` dikumpulkan di E-Learning sebelum batas waktu yang telah ditentukan.

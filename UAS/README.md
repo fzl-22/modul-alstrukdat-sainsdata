@@ -19,7 +19,7 @@
 
 1. Ketiga soal dikerjakan dalam 1 file berekstensi `.ipynb`.
 2. Setiap soal diberi tanda menggunakan Markdown (# Soal 1, # Soal 2, # Soal 3).
-3. Nama file menggunakan format berikut: `{nim}_{nama_mahasiswa}_UAS.zip`.
+3. Nama file menggunakan format berikut: `{nim}_{nama_mahasiswa}_UAS.ipynb`.
 
     Contoh: `1203210101_Chitoge Kirisaki_UAS.ipynb`.
   
